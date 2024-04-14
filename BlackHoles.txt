@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Markarian 1095",
+    "solar_mass": "(1.5 ± 0.19) × 108​ 182.000.000​ M",
+    "description": "es una galaxia espiral Seyfert Tipo 1 en la constelación de Orión ubicada aproximadamente a 440 millones de años luz de distancia.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Mrk_1095SDSS.png",
+    "id": "1"
+  },
+  {
+    "name": "Messier 105",
+    "solar_mass": "140.000.000–200.000.000 M",
+    "description": "Es una galaxia elíptica de la constelación de Leo. Fue descubierta por Pierre Méchain en 1781. M105 es la galaxia elíptica más brillante del grupo Leo I o grupo M96 de galaxias, y se encuentra a una distancia aproximada de 38 millones de años luz.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Messier_105_2MASS.jpg",
+    "id": "2"
+  },
+  {
+    "name": "Markarian 509",
+    "solar_mass": "(1.43 ± 0.12) × 108​ 57.550.000 M",
+    "description": "Es una galaxia lenticular de emisiones múltiples que emiten en el rango de rayos X, infrarrojos, ultravioleta y radio.",
+    "image": "https://cdn.esahubble.org/archives/images/screen/ann1121a.jpg",
+    "id": "3"
+  },
+  {
+    "name": "OJ 287 secundario",
+    "solar_mass": "	100.000.000​ M",
+    "description": "Su agujero negro supermasivo central tiene una masa de 18000 millones de veces la masa del Sol, más de seis veces el valor calculado para el anterior más grande conocido. Situado a 3500 millones de años luz de la Tierra, está relativamente cerca de la Tierra para ser un cuásar.",
+    "image": "https://www.iaa.csic.es/sites/default/files/oj287_collage_202201_es_0.png",
+    "id": "4"
+  },
+  {
+    "name": "TON 618",
+    "solar_mass": "40.700.000.000 M",
+    "description": "El mayor agujero negro conocido hasta la fecha, tiene 1.610 unidades astronómicas por lo tanto su diámetro sería de 240 mil millones de kilómetros, TON 618 tiene un disco de acreción de gas caliente girando a su alrededor.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/TON_618_SDSS9_version_2.jpg",
+    "id": "5"
+  },
+  {
+    "name": "NGC 4889",
+    "solar_mass": "21.000.000.000 M",
+    "description": "NGC 4889 es una galaxia elíptica gigante situada a una distancia estimada de alrededor de 320 millones de años luz y que puede verse con telescopios de aficionado. Es el miembro más brillante del Cúmulo de Coma, intrínsecamente mucho más brillante que las dos galaxias más brillantes del Cúmulo de Virgo (M49 y M87).",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/NGC_4889.jpg",
+    "id": "6"
+  }
+]

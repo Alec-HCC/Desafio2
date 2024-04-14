@@ -1,0 +1,110 @@
+[
+  {
+    "nombre": "Mercurio",
+    "masa": "3.3011 × 10^23 kg",
+    "radio": "2,439.7 km",
+    "distancia_media_al_sol": "57,910,000 km",
+    "periodo_orbital": "88 días",
+    "periodo_rotacion": "58.6 días",
+    "numero_de_lunas": 0,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mercury_in_color_-_Prockter07_centered.jpg/1200px-Mercury_in_color_-_Prockter07_centered.jpg",
+    "tipo": "Planeta rocoso",
+    "id": "1"
+  },
+  {
+    "nombre": "Tierra",
+    "masa": "5,9736 × 1024 kg",
+    "radio": "6371,0 km",
+    "distancia_media_al_sol": "150,000,000 km",
+    "periodo_orbital": "365 dias",
+    "periodo_rotacion": "23.5 horas",
+    "numero_de_lunas": 1,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/1/1f/As08-16-2593.jpg",
+    "tipo": "Planeta tierra",
+    "id": "2"
+  },
+  {
+    "nombre": "Luna",
+    "masa": "7,349 × 1022",
+    "radio": "1,737.4 km",
+    "distancia_media_al_sol": "400,000 Km",
+    "periodo_orbital": "27 dias",
+    "periodo_rotacion": "27.32 días",
+    "numero_de_lunas": 0,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Full_Moon_Luc_Viatour.jpg/280px-Full_Moon_Luc_Viatour.jpg",
+    "tipo": "Planeta rocoso",
+    "id": "3"
+  },
+  {
+    "nombre": "Jupiter",
+    "masa": "1 MJ (Masa Joviana)",
+    "radio": "69,911 km",
+    "distancia_media_al_sol": "750,000,000 km",
+    "periodo_orbital": "11,86 años",
+    "periodo_rotacion": "0.9 horas",
+    "numero_de_lunas": 0,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/71/PIA22946-Jupiter-RedSpot-JunoSpacecraft-20190212.jpg",
+    "tipo": "Planeta rocoso",
+    "id": "4"
+  },
+  {
+    "nombre": "Marte",
+    "masa": "6.39 × 10^23",
+    "radio": "3,390 km",
+    "distancia_media_al_sol": "228,000,000 km",
+    "periodo_orbital": "687 dias",
+    "periodo_rotacion": "1.3 dias",
+    "numero_de_lunas": 0,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Schiaparelli_Hemisphere_Enhanced.jpg/640px-Schiaparelli_Hemisphere_Enhanced.jpg",
+    "tipo": "planeta rocoso",
+    "id": "5"
+  },
+  {
+    "nombre": "Saturno",
+    "masa": "5.683 × 10^26 kg",
+    "radio": "58,232 km",
+    "distancia_media_al_sol": "1,418,000,000 km",
+    "periodo_orbital": "29.1 años",
+    "periodo_rotacion": "10.3 horas",
+    "numero_de_lunas": 0,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Saturn_during_Equinox.jpg/1200px-Saturn_during_Equinox.jpg",
+    "tipo": "Planeta rocoso",
+    "id": "6"
+  },
+  {
+    "nombre": "Venus",
+    "masa": "4.867 × 10^24 kg",
+    "radio": "6,052 km",
+    "distancia_media_al_sol": "108,000,000 km",
+    "periodo_orbital": "225 dias",
+    "periodo_rotacion": "243 dias",
+    "numero_de_lunas": 0,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Venus_globe.jpg/800px-Venus_globe.jpg",
+    "tipo": "Planeta rocoso",
+    "id": "7"
+  },
+  {
+    "nombre": "Urano",
+    "masa": "8.681 × 10^25",
+    "radio": "25,362 km",
+    "distancia_media_al_sol": "3,000,000,0000 km",
+    "periodo_orbital": "84 años",
+    "periodo_rotacion": "17.1 horas",
+    "numero_de_lunas": 0,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/69/Uranus_Voyager2_color_calibrated.png",
+    "tipo": "Planeta gaseoso",
+    "id": "8"
+  },
+  {
+    "nombre": "Neptuno",
+    "masa": "1.024 × 10^26 kg",
+    "radio": "24,622 km",
+    "distancia_media_al_sol": "4,500,000,000 km",
+    "periodo_orbital": "60,000 dias",
+    "periodo_rotacion": "16.6 horas",
+    "numero_de_lunas": 0,
+    "imagen": "https://content.nationalgeographic.com.es/medio/2022/08/03/el-planeta-neptuno_bfb396f8_1280x1278.jpg",
+    "tipo": "Planeta rocoso de hielo",
+    "id": "9"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Vía Lactea",
+    "description": "La Vía Láctea es la galaxia de la cual forma parte el sistema solar, es decir, la galaxia en donde se encuentra la Tierra. Consiste en una gigantesca agrupación de estrellas, planetas y nubes de gas con forma de espiral barrada y un diámetro medio de alrededor de 200.000 años luz.",
+    "galaxyImage": "https://imgs.search.brave.com/xhfEZtY4GnynAeVbiwpVgG4QhSzdtYkUDqsYqiIgxTU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA1Lzc2LzQ2LzMy/LzM2MF9GXzU3NjQ2/MzI0N19mUjUwR2hz/TXRLVENwaEo4TWpI/azZFQUE3QzBtTnRv/aS5qcGc",
+    "id": "1"
+  },
+  {
+    "name": "Andrómeda",
+    "description": "La Galaxia de Andrómeda, M31, es la galaxia más grande cercana a nuestra Vía Láctea. Esté a una distancia de aproximadamente 900 kiloparsecs o 3 millones de años luz de diámetro, según la medida de sus estrellas variables Ceféidas mas brillantes.  ",
+    "galaxyImage": "https://imgs.search.brave.com/Bx8sWRM5AFOYYxLAO34zFrO8ico3rqYeAdy2hbRlU78/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvOTMz/NzY2ODAvZXMvZm90/by9hbmRyb21lZGEt/Z2FsYXh5LmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz1HUHlj/Q0p5TWtXb2pzZ3Fi/RzBzTmVpeWlXWS1s/dmpDTzRobnRRR0xN/cW53PQ",
+    "id": "2"
+  },
+  {
+    "name": "Nube de Magallanes",
+    "description": "Las Nubes de Magallanes son dos galaxias enanas, pertenecientes al Grupo Local de galaxias. La mayor de ellas es conocida como Gran Nube de Magallanes y la menor como Pequeña Nube de Magallanes. Aunque tradicionalmente se ha pensado que orbitaban en torno a la Vía Láctea, los estudios recientes parecen descartar esta posibilidad.",
+    "galaxyImage": "https://upload.wikimedia.org/wikipedia/commons/5/51/Deepest%2C_widest_view_of_the_Large_Magellanic_Cloud_from_SMASH.jpg",
+    "id": "3"
+  },
+  {
+    "name": "Triángulo",
+    "description": "a galaxia del Triángulo (también conocida como galaxia espiral M33, Objeto Messier 33, Messier 33, M33 o NGC 598) es una galaxia espiral localizada en la constelación del Triangulum. Con entre 30 000 y 40 000 millones de estrellas​ es pequeña en comparación con sus vecinas mayores",
+    "galaxyImage": "https://imgs.search.brave.com/CF9Rbyp4RABVq-eO8ThEaS_0ULC12m6Slh_IY5yLQ34/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi8wLzBkL01l/c3NpZXJfMzMuanBn/LzUxMnB4LU1lc3Np/ZXJfMzMuanBn",
+    "id": "4"
+  },
+  {
+    "name": "Enana Elíptica de Sagitario",
+    "description": "La galaxia Enana Elíptica de Sagitario o SagDEG es una galaxia satélite de la Vía láctea. Con un diámetro de cerca de 10 000 años luz, se encuentra actualmente a 70 000 años luz de la Tierra y se mueve en una órbita polar a unos 50 000 años luz del centro de nuestra galaxia.",
+    "galaxyImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Messier_54_HST.jpg/1024px-Messier_54_HST.jpg",
+    "id": "5"
+  },
+  {
+    "name": "Galaxia de la Moneda de Plata",
+    "description": "NGC 253, también conocida cómo la Galaxia de la moneda de plata, es una galaxia espiral barrada descubierta en 1783 por Caroline Herschel situada en la constelación de Sculptor, a 12,9 millones de años luz (3,94 megapársecs) de la Vía Láctea, lo que la sitúa entre las galaxias más cercanas al Grupo Local",
+    "galaxyImage": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Wide-field_view_of_NGC_253.jpg",
+    "id": "6"
+  },
+  {
+    "name": "Leo I",
+    "description": "Leo I es una galaxia enana esferoidal en la constelación de Leo, a sólo 12 arcmin de Regulus (α Leonis). Por ello, esta galaxia a veces recibe el nombre de Enana de Regulus. La luz de la estrella hace más difícil el estudio de la galaxia, y no se detectó visualmente hasta los años 1990.",
+    "galaxyImage": "https://imagenes.muyinteresante.com/files/vertical_image_670/uploads/2022/10/11/63456eac7f188.jpeg",
+    "id": "7"
+  },
+  {
+    "name": "Palo de Hockey (NGC 4656)",
+    "description": "conocida como NGC 4656 o galaxia palo de hockey. Está ubicada en la constelación de Canes Venatici. Aunque resulte confuso su nombre debido a esta vista parcial, lo cierto es que la galaxia tiene la forma de un palo alargado y deformado, que se extiende por el espacio hasta enrollarse en un extremo para formar una sorprendente imitación de un palo de hockey celestial.",
+    "galaxyImage": "https://imgs.search.brave.com/OR3ZgENZpm7jQPE3_N6wRqfUOqd-nwDo7GqcFq369LE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/ZGF2aWRkYXJsaW5n/LmluZm8vaW1hZ2Vz/L0hvY2tleV9TdGlj/ay5qcGc",
+    "id": "8"
+  },
+  {
+    "name": "IC342",
+    "description": "se encuentra cerca del ecuador del disco galáctico de la Vía Láctea, donde el cielo está lleno de oscuro gas cósmico, estrellas y polvo oscuro; así que para ver esta intrincada estructura en espiral, los astrónomos deben mirar a través de una gran cantidad de material contenido dentro de nuestra propia galaxia, algo que no es nada fácil. De ahí que reciba el apodo de 'galaxia oculta'. Se encuentra a 10,7 millones de años luz de la Vía Láctea.",
+    "galaxyImage": "https://imagenes.muyinteresante.com/files/vertical_image_670/uploads/2022/10/11/63456eb3306f2.jpeg",
+    "id": "9"
+  },
+  {
+    "name": "Galaxia del Cigarro (Messier 82)",
+    "description": "Existen aproximadamente 51 galaxias en el Grupo local, pues la galaxia del Cigarro es una de las más destacadas junto con Andrómeda o la Gran Nube de Magallanes. Se trata de una galaxia irregular alargada y estrecha localizada en la constelación de la Osa Mayor a unos 12 millones de años luz de distancia de la Tierra. ",
+    "galaxyImage": "https://imgs.search.brave.com/MYmDOQBDwGasdqFG2wPO6Ir6VYcOui_FZpQ6INQBY8o/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi84LzgzL004/Ml9DaGFuZHJhX0hT/VF9TcGl0emVyLmpw/Zy81MTJweC1NODJf/Q2hhbmRyYV9IU1Rf/U3BpdHplci5qcGc",
+    "id": "10"
+  }
+]
