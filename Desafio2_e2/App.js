@@ -10,14 +10,25 @@ import BlackHoles from "./Screens/BlackHoles";
 
 export default function App() {
   const Tab = createBottomTabNavigator();
+  const MyTheme = {
+    dark: true,
+    colors: {
+      primary: "rgb(255, 45, 85)",
+      background: "rgb(255, 255, 255)",
+      card: "rgb(60, 60, 60)",
+      text: "rgb(255, 255, 255)",
+      border: "rgb(0,0,0)",
+      notification: "rgb(255, 255, 255)",
+    },
+  };
   const TabNavigator = () => (
     <Tab.Navigator
       screenOptions={({ route }) => ({
         tabBarInactiveTintColor: "#757272",
         tabBarActiveTintColor: "#fff",
-        backgroundColor: "#000",
+        backgroundColor: "#rgb(60, 60, 60)",
         tabBarStyle: {
-          backgroundColor: "#000",
+          backgroundColor: "rgb(60, 60, 60)",
         },
 
         tabBarIcon: ({ focused, color, size }) => {
@@ -40,7 +51,7 @@ export default function App() {
     </Tab.Navigator>
   );
   return (
-    <NavigationContainer>
+    <NavigationContainer theme={MyTheme}>
       <TabNavigator />
     </NavigationContainer>
   );
