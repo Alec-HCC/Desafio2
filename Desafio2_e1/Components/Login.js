@@ -1,3 +1,4 @@
+import React, { useState, useEffect } from 'react';
 import {
   StyleSheet,
   Text,
@@ -9,6 +10,7 @@ import {
   Pressable,
   Linking,
 } from "react-native";
+import AsyncStorage from '@react-native-async-storage/async-storage';
 import { NavigationContainer } from "@react-navigation/native";
 import { createStackNavigator } from "@react-navigation/stack";
 import {
@@ -18,11 +20,47 @@ import {
 } from "@expo-google-fonts/inter";
 import { LinearGradient } from "expo-linear-gradient";
 import Logo from "./Logo";
-import Register from "./Register";
 
 const Stack = createStackNavigator();
 
 export default function Login({ navigation }) {
+  const [email, setEmail] = useState('');
+  const [password, setPassword] = useState('');
+  const [semail, setsEmail] = useState('');
+  const [spassword, setsPassword] = useState('');
+  const [name, setName] = useState('');
+
+  useEffect(() => {
+    savedData();
+  }, []);
+
+  const savedData = async () => {
+    try {
+      const savedEmail = await AsyncStorage.getItem('email');
+      const savedPassword = await AsyncStorage.getItem('password');
+      const savedName = await AsyncStorage.getItem('username');
+
+      if (savedEmail && savedPassword) {
+        setsEmail(savedEmail);
+        setsPassword(savedPassword);
+        setName(savedName);
+      }
+    } catch (error) {
+      console.error('Error al obtener los datos guardados:', error);
+    }
+  };
+
+  const Login = () => {
+    console.log('Email:', email + semail);
+    console.log('Contraseña:', password + spassword);
+    if(semail == email && spassword == password ){
+      alert('Bienvenido ' + name);
+      navigation.navigate('RecordaTask'); // Navegar a la pantalla de Evento después del registro
+
+    }
+    
+  };
+
   let [fontsLoaded] = useFonts({
     Inter_200ExtraLight,
     Inter_400Regular,
@@ -41,10 +79,15 @@ export default function Login({ navigation }) {
         behavior={Platform.OS === "ios" ? "padding" : "height"}
       >
         <View style={styles.containerInput}>
-          <TextInput style={styles.input} placeholder="Name" />
+          <TextInput style={styles.input} placeholder="Email"
+            value={email}
+            onChangeText={setEmail}
+          />
           <TextInput
             style={styles.input}
             placeholder="Password"
+            value={password}
+            onChangeText={setPassword}
             secureTextEntry
           />
         </View>
@@ -55,7 +98,7 @@ export default function Login({ navigation }) {
           colors={["#e0c3fc", "#8ec5fc"]}
           style={styles.button}
         >
-          <Text style={styles.button}>Log In</Text>
+          <Text style={styles.button} onPress={Login}>Log In</Text>
         </LinearGradient>
       </TouchableOpacity>
       <View style={styles.register}>
